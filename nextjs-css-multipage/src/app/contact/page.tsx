@@ -6,15 +6,15 @@ export default function Contact(){
     <div>
       <div className="main">
         <div className="about">
-   <h1 className="name" style={{fontSize:"50px",fontStyle:"italic"}} >Connect with Najaf Ali </h1>
+   <h1 className="name" style={{fontSize:"50px",fontStyle:"italic"}} >Connect with Dais Khan </h1>
 
          <h1 className="intro"> <strong>Email:</strong> najafali32304@gmail.com</h1>
           <h1 className="intro"> <strong>Address:</strong>Karachi Sindh, Pakistan</h1>
-          <h1 className="intro"> <strong>Phone:</strong> +923041729625</h1>
-          <h1 className="intro"> <strong>WhatsApp</strong> +923041729625</h1>
-          <h1 className="intro"> <strong>Github:</strong> najafali14</h1>
-          <h1 className="intro"> <strong>Discord:</strong> najafali14</h1>
-          <h1 className="intro"> <strong>LinkedIn:</strong> najafali14</h1>
+          <h1 className="intro"> <strong>Phone:</strong> +923041549625</h1>
+          <h1 className="intro"> <strong>WhatsApp</strong> +923056729625</h1>
+          <h1 className="intro"> <strong>Github:</strong> daiskhan</h1>
+          <h1 className="intro"> <strong>Discord:</strong> daiskhan</h1>
+          <h1 className="intro"> <strong>LinkedIn:</strong> daiskhan</h1>
 
 
 
